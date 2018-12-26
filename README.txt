@@ -8,8 +8,7 @@ Live Demo
  https://repl.it/@zeraiadhanom/RubberyGoodAssemblylanguage
 
 Short Description: 
-The app is intended with a view that users can have a look at their favorie movies. It helps users to read reviews of movies
-to get more information on the publication date and who is staring;
+The app is intended with a view that users can have a look at their favorite movies review. It helps users to read reviews collected from the New York Times data of movies to get more information on the moview summary, review, publication date and who is staring;
 
 
 Screenshots
