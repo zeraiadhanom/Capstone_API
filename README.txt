@@ -13,7 +13,7 @@ The app is intended with a view that users can have a look at their favorite mov
 
 Screenshots
 
-App screenshot available here:
+App screenshot available here: https://github.com/zeraiadhanom/Capstone_API/tree/master/images
 
 
 Technology used.:
