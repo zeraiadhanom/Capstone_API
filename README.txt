@@ -13,10 +13,9 @@ The app is intended with a view that users can have a look at their favorite mov
 
 Screenshots
 
-< put screen shot >
+App screenshot available here:
 
 
-
-technology used.:
+Technology used.:
 
 HTML, CSS, javascript, jquery & 'NeW York Times API'
