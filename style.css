@@ -51,11 +51,13 @@ input {
 #submit {
  display: block;
   margin: auto;
-  border: black solid 1px;
+  border: white solid 1px;
   border-radius: 20px;
   text-align: center;
   padding: 20px;
   font-size: 20px;
+  background-color: black;
+  color: white;
 }
 
 #results {
