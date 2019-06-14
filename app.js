@@ -2,7 +2,9 @@
 
 'use strict';
 
-const apiKey = '20b7f5cb0ac546e6bd0d8944a2b34cd1'
+const apiKey = '541aa6132f7848d0a1b0e03e12b9ffbd'
+
+//20b7f5cb0ac546e6bd0d8944a2b34cd1
 
 const url = "https://api.nytimes.com/svc/movies/v2/reviews/search.json?critics-pick=Y&apikey=" + apiKey;
 
