@@ -6,7 +6,7 @@ const apiKey = '78Gki0t9t09y44gpHi4eoDTx7plvSTEC'
 
 //20b7f5cb0ac546e6bd0d8944a2b34cd1
 
-const url = "https://api.nytimes.com/svc/movies/v2/reviews/search.json?critics-pick=Y&apikey=" + apiKey;
+const url = "https://api.nytimes.com/svc/movies/v2/reviews/search.json?critics-pick=Y&api-key=" + apiKey;
 
 function movieReviews(searchData) {
   
