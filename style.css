@@ -20,13 +20,18 @@ section {
 
 }
 
+p {
+ text-align: center;
+  color: white;
+}
+
 
 body {
 
-  background: black;
+  background-image: url("https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg");
   margin-left: auto;
   margin-right: auto;
-  border: yellow solid 1px;
+  
   font-size: 20px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 
@@ -45,6 +50,7 @@ input {
   text-align: center;
   padding: 20px;
   font-size: 20px;
+ 
   
 }
 
@@ -54,7 +60,7 @@ input {
   border: white solid 1px;
   border-radius: 20px;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
   font-size: 20px;
   background-color: black;
   color: white;
@@ -65,19 +71,34 @@ margin: auto;
 align-content: center;
 display: float-center;
 color: white;
-border: 1px solid white;
-border-radius: 10px;
+
 
 } 
 
 .list-group {
+
 list-style: none;
 align-content: center;
 padding-bottom: 10px;
+border: 1px solid gray;
+border-radius: 30%;
+background: black;
+margin: 20px;
+
+
 }
+
+.list img {
+
+padding-top: 15px;
+border-radius: 10px;
+
+}
+
 
 js-search-form {
  align-content: center;
+ 
 }
 
 #title {
@@ -99,4 +120,7 @@ font-size: 40px;
   padding-top: 40px;
 
   display: float-center;
+  
   }
+
+

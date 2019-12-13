@@ -24,7 +24,7 @@ function movieReviews(searchData) {
  function displayResults(responseJson) {
    //clean any displayed item;
    $('.list').html('');
-
+  
        // Show a retry message if user enters invalid input or if item is not availble; 
        
    if(responseJson.results.length === 0) {
